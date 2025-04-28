@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+	      <name>my-job-snapshot</name>
+	      <url>http://3.95.23.91:8081/repository/My-job-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-snapshot/</url>
+	      <name>my-job-release</name>
+	      <url>http://3.95.23.91:8081/repository/my-job-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
