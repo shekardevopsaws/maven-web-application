@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>my-job-release</name>
-	      <url>http://34.229.143.138:8081/repository/my-job-release/</url>
+	      <name>My-release</name>
+	      <url>http://18.204.231.221:8081/repository/My-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>my-job-snapshot</name>
-	      <url>http://34.229.143.138:8081/repository/My-job-snapshot/</url>
+	      <name>my-snapshot</name>
+	      <url>http://18.204.231.221:8081/repository/my-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
